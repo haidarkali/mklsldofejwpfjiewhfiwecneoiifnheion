@@ -21,9 +21,9 @@ app.use((err, req, res, next) => {
 
 app.use("/static", express.static(path.resolve(__dirname, "frontend", "static")));
 
-app.get("/static/js/app.js", (req, res) => {
+app.get("/static/js/apps.js", (req, res) => {
     res.setHeader("Content-Type", "text/javascript");
-    res.sendFile(path.resolve(__dirname, "frontend", "static", "js", "app.js"));
+    res.sendFile(path.resolve(__dirname, "frontend", "static", "js", "apps.js"));
 });
 
 
