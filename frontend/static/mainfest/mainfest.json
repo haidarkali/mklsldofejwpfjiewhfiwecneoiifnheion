@@ -1,0 +1,42 @@
+{
+    "background_color": "#ffffff",
+    "dir": "rtl",
+    "display": "standalone",
+    "name": "DR-MCQs App",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "DR-MCQs",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/static/mainfest/image/icona.png",
+        "sizes": "2048x2048",
+        "type": "image/png",
+        "purpose": "any"
+      }
+     
+    ],
+    "id": "DR-MCQs",
+    "description": "The best application for solving tests that rely on the MCQ model with extraordinary features that allow you the best experience and scientific benefit with many features such as easy design and many features until you reach your goal of solving the test.",
+    "lang": "ar",
+    "display_override": [
+      "fullscreen",
+      "window-controls-overlay"
+    ],
+    "shortcuts": [
+      {
+        "name": "Add code",
+        "url": "/login",
+        "description": "helo pelo wla"
+        
+
+      }
+    ],
+    "categories": [
+      "education"
+    ]
+  
+ 
+    
+  }

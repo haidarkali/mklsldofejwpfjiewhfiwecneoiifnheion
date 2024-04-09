@@ -1,0 +1,122 @@
+[
+  {
+    "season": "laith",
+    "title": "الهضمية",
+    "href": "#/digestive-system"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "القلبية",
+    "href": "#/cardiology"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الكلية",
+    "href": "#/renal-system"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الصدرية",
+    "href": "#/respiratory-system"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الغدية",
+    "href": "#/nutrition"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الدم",
+    "href": "#/hematology"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الرثوية",
+    "href": "#/reproductive-system"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "العصبية",
+    "href": "#/neurology"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "الخمجية",
+    "href": "#/microbiology"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "طب نفسي",
+    "href": "#/psychology"
+  },
+  {
+    "season": "العيادات",
+    "title": "الجلدية",
+    "href": "#/dermatology"
+  },
+  {
+    "season": "كتلة أولى",
+    "title": "أطفال",
+    "href": "#/pediatrics"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة عامة",
+    "href": "#/general-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة بولية",
+    "href": "#/urology"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة عظمية",
+    "href": "#/orthopedics"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة صدرية",
+    "href": "#/thoracic-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة عصبية",
+    "href": "#/neurosurgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة أطفال",
+    "href": "#/pediatric-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة تجميلية",
+    "href": "#/plastic-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة قلبية",
+    "href": "#/cardiovascular-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة أوعية",
+    "href": "#/vascular-surgery"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "جراحة أورام",
+    "href": "#/oncology"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "نسائية",
+    "href": "#/gynecology"
+  },
+  {
+    "season": "كتلة ثانية",
+    "title": "توليد",
+    "href": "#/obstetrics"
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "season": 1,
+        "title": "البيولوجيا",
+        "href": "#/biology",
+        "madas": "biology"
+    },
+    {
+        "season": 2,
+        "title": "الكيمياء-1",
+        "href": "#/chemistry ",
+        "madas": "chemistry"
+    },
+    {
+        "season": 3,
+        "title": "الكيمياء-2",
+        "href": "#/chemistry2",
+        "madas": "chemistry2"
+    }
+]
