@@ -85,4 +85,4 @@ app.post('/asd', (req, res) => {
 
 
 
-app.listen(process.env.PORT || 2323, () => console.log("Server running..."));
+app.listen(process.env.PORT || 3000, () => console.log("Server running..."));
