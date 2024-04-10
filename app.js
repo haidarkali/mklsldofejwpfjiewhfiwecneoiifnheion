@@ -4,7 +4,7 @@ const path = require("path");
 const app = express();
 const fs = require('fs');
 // Use static middleware to serve public files
-express.urlencoded({ extended: true }) 
+ app.use(express.urlencoded({ extended: true }));
   app.use(express.static('public'));
 
 
